@@ -106,7 +106,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"smallPrefab","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 1990385776071640484, guid: 15612e9c5fdf06d4ab7c2b7bd801d8dc, type: 3}
+    - {fileID: 1990385776071640484, guid: 7e93b82078e419a42ba455c12ffce841, type: 3}
 --- !u!114 &1756204794954727885
 MonoBehaviour:
   m_ObjectHideFlags: 0
